@@ -336,10 +336,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <!-- REQUIRED SCRIPTS -->
 
 <!-- jQuery -->
-<script src="/template/plugins/jquery/jquery.min.js"></script>
+<script src="../template/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="/template/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="../template/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="/template/dist/js/adminlte.min.js"></script>
+<script src="../template/dist/js/adminlte.min.js"></script>
 </body>
 </html>
